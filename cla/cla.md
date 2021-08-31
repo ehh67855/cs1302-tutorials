@@ -10,7 +10,7 @@ shell. For example, consider the following `javac` command:
 $ javac -d bin -cp bin src/cs1302/example/Hello.java
 ```
 
-The text that is entered immediately following `javac`, in the exampe above, is
+The text that is entered immediately following `javac`, in the example above, is
 passed into the program as __command-line arguments__. This allows the `java` program
 to proceed with execution without prompting the user for input. We can have our Java
 programs take in command-line arguments as well. Let's try it!
